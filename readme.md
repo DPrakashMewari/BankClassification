@@ -1,2 +1,2 @@
 # Classfication Project 
-## Salary Classification Project
+## Salary Classification
